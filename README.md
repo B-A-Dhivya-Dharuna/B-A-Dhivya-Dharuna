@@ -162,6 +162,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/B-A-Dhivya-Dharuna/B-A-Dhivya-Dharuna/output/snake.svg" alt="Snake animation" />
-
-###
