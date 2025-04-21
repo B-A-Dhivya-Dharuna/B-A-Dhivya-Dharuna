@@ -1,6 +1,5 @@
 <div align="center">
-  <img height="150" src= ![meeeeeeeeeeeee (1) (1)](https://github.com/user-attachments/assets/fcea0c7e-df49-45da-a43d-ce7a2c8652c0)
-pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f511295%2fscreenshots%2f2629099%2foctocat-wave-dribbble.gif&ehk=dbLB86buaNF7giR%2f46VMHMzfjmHn0WJkwLdKkwWSaWs%3d"  />
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 </div>
 
 ###
@@ -162,4 +161,3 @@ pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f511295%2fscreenshots%2f262
 </div>
 
 ###
-
