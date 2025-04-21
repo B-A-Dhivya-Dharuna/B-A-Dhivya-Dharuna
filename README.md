@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"  />
+  <img height="400" width="450" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" />
 </div>
+
 
 ###
 
@@ -38,7 +39,7 @@
 
 ###
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/238200839-9c351cb9-c9a2-4b20-8420-e96b8331a53b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUyMTcxMDUsIm5iZiI6MTc0NTIxNjgwNSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4MzktOWMzNTFjYjktYzlhMi00YjIwLTg0MjAtZTk2YjgzMzFhNTNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIxVDA2MjY0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU1YTE3ZTcyMTk3YzA1NDZkMDFmYzEzMzM1OTUzNTBiNDQzODkxZDNjMDk0MGIwMTdhYjY4YjQ0OGRlMzc5NTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.n9BgwTiCthIMcM6BV-J3KjeItDcjwLpywdOpdVtid6M"  />
+  <img height="200" width="250" src="https://private-user-images.githubusercontent.com/74038190/238200839-9c351cb9-c9a2-4b20-8420-e96b8331a53b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUyMTcxMDUsIm5iZiI6MTc0NTIxNjgwNSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4MzktOWMzNTFjYjktYzlhMi00YjIwLTg0MjAtZTk2YjgzMzFhNTNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIxVDA2MjY0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU1YTE3ZTcyMTk3YzA1NDZkMDFmYzEzMzM1OTUzNTBiNDQzODkxZDNjMDk0MGIwMTdhYjY4YjQ0OGRlMzc5NTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.n9BgwTiCthIMcM6BV-J3KjeItDcjwLpywdOpdVtid6M"  />
 </div>
 <h3 align="left">👩‍💻  About Me</h3>
 <p align="left">Hey there! 👋 I'm B A Dhivya Dharuna<br><br>🎓 AI & ML undergraduate student<br><br>🌱 Learning Neural Networks, AI Agents, MLOps, and Computer Vision<br>  <br>💻 Comfortable with data handling, and diving into model deployment <br><br>👯 Always up to collaborate on Deep Learning, MLOps, or Web Development  <br><br>💬 Ask me about AI, ML, Deep Learning, or turning chaotic ideas into clean code!</p>
@@ -47,7 +48,7 @@
 ###
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  />
+  <img height="200" width="250" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  />
 </div>
 
 <h3 align="left">🛠 Language and tools</h3>
