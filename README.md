@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"  />
 </div>
 
 ###
@@ -34,13 +34,21 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+
 
 ###
-
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200839-9c351cb9-c9a2-4b20-8420-e96b8331a53b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUyMTcxMDUsIm5iZiI6MTc0NTIxNjgwNSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4MzktOWMzNTFjYjktYzlhMi00YjIwLTg0MjAtZTk2YjgzMzFhNTNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIxVDA2MjY0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU1YTE3ZTcyMTk3YzA1NDZkMDFmYzEzMzM1OTUzNTBiNDQzODkxZDNjMDk0MGIwMTdhYjY4YjQ0OGRlMzc5NTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.n9BgwTiCthIMcM6BV-J3KjeItDcjwLpywdOpdVtid6M"  />
+</div>
+<h3 align="left">👩‍💻  About Me</h3>
 <p align="left">Hey there! 👋 I'm B A Dhivya Dharuna<br><br>🎓 AI & ML undergraduate student<br><br>🌱 Learning Neural Networks, AI Agents, MLOps, and Computer Vision<br>  <br>💻 Comfortable with data handling, and diving into model deployment <br><br>👯 Always up to collaborate on Deep Learning, MLOps, or Web Development  <br><br>💬 Ask me about AI, ML, Deep Learning, or turning chaotic ideas into clean code!</p>
 
+
 ###
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  />
+</div>
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -158,6 +166,10 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=B-A-Dhivya-Dharuna&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"  />
 </div>
 
 ###
